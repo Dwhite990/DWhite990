@@ -3,13 +3,13 @@
 
 
 
-I have completed Intellectual Point's DevOps boot camp. I have a profound interest in building and maintaining technology
+I have completed Intellectual Point's DevOps boot camp. I have a profound interest in building and maintaining technology.
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have been building computers for 17 years and have always been passionate about hacking. Through my learning, I have developed an interest in cybersecurity. I am eager to transition into this field, and I aim to join a Security Operation Center (SOC) as a tier 1 Analyst.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
