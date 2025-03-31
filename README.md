@@ -1,9 +1,10 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm David
+<a href="https://linkedin.com/in/davidwhite773175234/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I have completed Intellectual Point's DevOps boot camp. I have a profound interest in building and maintaining technology
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
